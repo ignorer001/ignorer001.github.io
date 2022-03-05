@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Dr. Yin Liu"
   avatar           : "profile.png"
-  bio              : "Researcher and Lecturer"
+  bio              : "Researcher and Lecturer @ Beijing University of Technology (BJUT)."
   location         : "Beijing, China"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : https://scholar.google.com/citations?user=Qnh7iccAAAAJ&hl=en
   email            :
   researchgate     :
   uri              :
