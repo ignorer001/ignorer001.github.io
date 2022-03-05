@@ -34,6 +34,12 @@ redirect_from:
 <font color=Gold>[C]</font>**Yin Liu**, Zheng Song, and Eli Tilevich, "[Querying Invisible Objects: Supporting Data-Driven, Privacy-Preserving Distributed Applications](https://people.cs.vt.edu/~tilevich/papers/obex-manlang.pdf)," Proceedings of the 14th International Conference on Managed Languages & Runtimes ([ManLang 2017](https://d3s.mff.cuni.cz/legacy/conferences/manlang17/?n=Main.HomePage), formerly PPPJ, now called MPLR), September 2017. 
 
 
+
+## Posters
+A Programming Framework for Data-Intensive, Privacy-Preserving Applications, 16th Semiannual Security & Software Engineering Research Center ([S2ERC](https://www.serc.net/)) showcase, November 8-9, 2017.
+
+Compiler Tools for Critical Program Information (CPI) Protection, 15th Semiannual Security & Software Engineering Research Center ([S2ERC](https://www.serc.net/)) showcase, May 24-25, 2017.
+
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
