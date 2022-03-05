@@ -11,9 +11,9 @@ title                    : "Yin Liu's Page"
 title_separator          : "-"
 name                     : &name "Yin Liu"
 description              : &description "I am a researcher and lecturer at Beijing University of Technology (BJUT)."
-url                      : https://ignorer001.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ignorer001.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dr. Yin Liu"
   avatar           : "profile.png"
-  bio              : "Researcher and Lecturer at Beijing University of Technology."
+  bio              : "Researcher and Lecturer"
   location         : "Beijing, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=Qnh7iccAAAAJ&hl=en"
-  email            : "yinliu [AT] bjut [DOT] edu [DOT] cn"
+  googlescholar    :
+  email            :
   researchgate     :
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ignorer001"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yinliu001/"
-  orcid            : "https://orcid.org/0000-0002-0637-4471"
+  linkedin         :
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
