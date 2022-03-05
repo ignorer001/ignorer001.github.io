@@ -9,7 +9,7 @@ redirect_from:
 
 ## Peer-reviewed Publications
 
-[C] Conference Proceeding | [J] Journal Article  
+<font color=Gold>[C] Conference Proceeding</font> <font color=Green>[J] Journal Article</font>
 
 [J] Yin Liu, Siddharth Dhar, and Eli Tilevich, "Only Pay for What You Need: Detecting and Removing Unnecessary TEE-Based Code,"  Journal of Systems & Software (JSS), In Print, February 2022. 
 
