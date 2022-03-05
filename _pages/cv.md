@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * 2021 - now : Lecturer (tenure-track)
-  * Beijing University of Technology, China
+  * Beijing University of Technology (BJUT), China
 
 * 2011 - 2014 : Software Engineer
   * Sony Mobile Communications, Beijing, China
