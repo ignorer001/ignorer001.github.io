@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* 2021 - now: Lecturer (tenure-track), 
+* 2021 - now : Lecturer (tenure-track)
   * Beijing University of Technology, China
 
-* 2011 - 2014: Software Engineer, 
+* 2011 - 2014 : Software Engineer
   * Sony Mobile Communications, Beijing, China
 
   
@@ -51,7 +51,7 @@ Work experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
+Service
 ======
 * Organizing Committee: Proceedings Chair for [ManLang 2018](https://ssw.jku.at/Services/conferences/manlang18/)
 * Reviewer/Sub-Reviewer: ECOOP’20, Journal of Computers & Security, Journal of Cloud Computing, etc.
