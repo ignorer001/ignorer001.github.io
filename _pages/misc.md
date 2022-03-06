@@ -1,13 +1,3 @@
-<!-- ---
-permalink: /
-title: "MISC"
-excerpt: "MISC"
-author_profile: true
-redirect_from: 
-  - /misc/
-  - /misc.html
----
- -->
 ---
 layout: archive
 title: "MISC"
@@ -26,8 +16,8 @@ redirect_from:
 * Essay Competition Prize, China Youth Online, 2006
 
 ## Hobbies
-I love Literature as much as Computer Science, especially, Chinese Classical Literature. 
-I'm a big fan of Classical Chinese poetry, and Romance of the Three Kingdoms (one of the four great classical novels of Chinese Literature). 
+I love Literature as much as Computer Science, especially, Chinese Classical Literature. <br>
+I'm a big fan of Classical Chinese poetry, and Romance of the Three Kingdoms (one of the four great classical novels of Chinese Literature). <br>
 Besides, I always enjoy reading Lu Xun, Milan Kundera, Franz Kafka, and Haruki Murakami.
 
 ### One of my Poems
