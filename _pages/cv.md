@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: CV [Download](http://ignorer001.github.io/yinl/files/yinliu_cv.pdf)
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -23,7 +23,13 @@ Work experience
 * 2011 - 2014 : Software Engineer
   * Sony Mobile Communications, Beijing, China
 
-  
+Service
+======
+* Organizing Committee: Proceedings Chair for [ManLang 2018](https://ssw.jku.at/Services/conferences/manlang18/)
+* Reviewer/Sub-Reviewer: ECOOP’20, Journal of Computers & Security, Journal of Cloud Computing, etc.
+
+### [CV Download](http://ignorer001.github.io/yinl/files/yinliu_cv.pdf)
+ 
 <!-- Skills
 ======
 * Skill 1
@@ -51,7 +57,3 @@ Work experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service
-======
-* Organizing Committee: Proceedings Chair for [ManLang 2018](https://ssw.jku.at/Services/conferences/manlang18/)
-* Reviewer/Sub-Reviewer: ECOOP’20, Journal of Computers & Security, Journal of Cloud Computing, etc.
