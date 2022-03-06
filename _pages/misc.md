@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: "MISC"
 excerpt: "MISC"
@@ -6,6 +6,15 @@ author_profile: true
 redirect_from: 
   - /misc/
   - /misc.html
+---
+ -->
+---
+layout: archive
+title: "MISC"
+permalink: /misc/
+author_profile: true
+redirect_from:
+  - /misc
 ---
 
 ## Awards
