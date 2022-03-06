@@ -18,7 +18,7 @@ redirect_from:
   * <font color=Green>[J]</font><font color=Black>Yin Liu, Siddharth Dhar, and Eli Tilevich, "[Only Pay for What You Need: Detecting and Removing Unnecessary TEE-Based Code](https://people.cs.vt.edu/tilevich/papers/TEEInsourcingJSS.pdf),"  [Journal of Systems & Software (JSS)](https://www.journals.elsevier.com/journal-of-systems-and-software), In Print, February 2022.</font>
 
 ### 2021
-  * <font color=Gold>[C]</font><u>Yin Liu</u>, Breno Dantas Cruz, and Eli Tilevich, "[Privacy-Preserving Sharing of Mobile Sensor Data](https://people.cs.vt.edu/~tilevich/papers/GoBetween.pdf)," Proceedings of EAI MobiCASE 2021 - 12th EAI International Conference on Mobile Computing, Applications and Services 2021 ([MobiCASE 2021](https://mobicase.eai-conferences.org/2021/)), November 2021. 
+  * <font color=Gold>[C]</font>**Yin Liu**, Breno Dantas Cruz, and Eli Tilevich, "[Privacy-Preserving Sharing of Mobile Sensor Data](https://people.cs.vt.edu/~tilevich/papers/GoBetween.pdf)," Proceedings of EAI MobiCASE 2021 - 12th EAI International Conference on Mobile Computing, Applications and Services 2021 ([MobiCASE 2021](https://mobicase.eai-conferences.org/2021/)), November 2021. 
 
   * <font color=Gold>[C]</font>**Yin Liu**, Breno Dantas Cruz, and Eli Tilevich, "[HTPD: Secure and Flexible Message-Based Communication for Mobile Apps](https://people.cs.vt.edu/~tilevich/papers/SecureComm2021.pdf)," Proceedings of the 17th EAI International Conference on Security and Privacy in Communication Networks ([SecureComm 2021](https://securecomm.eai-conferences.org/2021/)), September 2021.
 
