@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV [Download]()"
+title: "CV [Download](http://ignorer001.github.io/yinl/files/yinliu_cv.pdf)"[test](http://ignorer001.github.io/yinl/files/yinliu_cv.pdf)
 permalink: /cv/
 author_profile: true
 redirect_from:
