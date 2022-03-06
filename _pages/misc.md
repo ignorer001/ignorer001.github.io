@@ -17,12 +17,11 @@ redirect_from:
 
 ## Hobbies
 I love Literature as much as Computer Science, especially, Chinese Classical Literature. <br>
-I'm a big fan of Classical Chinese poetry, and Romance of the Three Kingdoms (one of the four great classical novels of Chinese Literature). <br>
+I'm a big fan of Classical Chinese poetry, and Romance of the Three Kingdoms (one of the four great classical novels of Chinese Literature).
 Besides, I always enjoy reading Lu Xun, Milan Kundera, Franz Kafka, and Haruki Murakami.
 
 ### One of my Poems
 长畏荆棘满路，安能笑傲江湖。一书一剑展雄图，燕然一鞭直度。
-
 虽千万人吾往，董道不负心初。浩气不与世沉浮，枕戈静待箫鼓。
 
 ### One of my published online Articles
