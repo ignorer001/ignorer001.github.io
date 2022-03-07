@@ -15,7 +15,7 @@ redirect_from:
 ------
 
 ### 2022
-  * "[Only Pay for What You Need: Detecting and Removing Unnecessary TEE-Based Code](https://people.cs.vt.edu/tilevich/papers/TEEInsourcingJSS.pdf),"  [Journal of Systems & Software (JSS)](https://www.journals.elsevier.com/journal-of-systems-and-software), In Print, February 2022.
+  * "[Only Pay for What You Need: Detecting and Removing Unnecessary TEE-Based Code](https://people.cs.vt.edu/tilevich/papers/TEEInsourcingJSS.pdf),"  [Journal of Systems & Software (JSS)](https://www.journals.elsevier.com/journal-of-systems-and-software), In Print, February 2022. <br>
     <font color=Black>By <b>Yin Liu</b>, Siddharth Dhar, and Eli Tilevich</font> <font color=Green>[J] </font>
 
 ### 2021
