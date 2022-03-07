@@ -15,23 +15,31 @@ redirect_from:
 ------
 
 ### 2022
-  * "[Only Pay for What You Need: Detecting and Removing Unnecessary TEE-Based Code](https://people.cs.vt.edu/tilevich/papers/TEEInsourcingJSS.pdf),"  [Journal of Systems & Software (JSS)](https://www.journals.elsevier.com/journal-of-systems-and-software), In Print, February 2022. <font color=Green>[J]</font><font color=Black><b>Yin Liu</b>, Siddharth Dhar, and Eli Tilevich,</font> 
+  * "[Only Pay for What You Need: Detecting and Removing Unnecessary TEE-Based Code](https://people.cs.vt.edu/tilevich/papers/TEEInsourcingJSS.pdf),"  [Journal of Systems & Software (JSS)](https://www.journals.elsevier.com/journal-of-systems-and-software), In Print, February 2022. <br>
+</font><font color=Black>By <b>Yin Liu</b>, Siddharth Dhar, and Eli Tilevich</font> <font color=Green>[J] 
 
 ### 2021
-  * <font color=Gold>[C]</font><font color=Black><b>Yin Liu</b>, Breno Dantas Cruz, and Eli Tilevich,</font> "[Privacy-Preserving Sharing of Mobile Sensor Data](https://people.cs.vt.edu/~tilevich/papers/GoBetween.pdf)," Proceedings of EAI MobiCASE 2021 - 12th EAI International Conference on Mobile Computing, Applications and Services 2021 ([MobiCASE 2021](https://mobicase.eai-conferences.org/2021/)), November 2021. 
+  * "[Privacy-Preserving Sharing of Mobile Sensor Data](https://people.cs.vt.edu/~tilevich/papers/GoBetween.pdf)," Proceedings of EAI MobiCASE 2021 - 12th EAI International Conference on Mobile Computing, Applications and Services 2021 ([MobiCASE 2021](https://mobicase.eai-conferences.org/2021/)), November 2021. <br>
+  <font color=Black>By <b>Yin Liu</b>, Breno Dantas Cruz, and Eli Tilevich</font> <font color=Gold>[C]</font>
 
-  * <font color=Gold>[C]</font><font color=Black><b>Yin Liu</b>, Breno Dantas Cruz, and Eli Tilevich,</font> "[HTPD: Secure and Flexible Message-Based Communication for Mobile Apps](https://people.cs.vt.edu/~tilevich/papers/SecureComm2021.pdf)," Proceedings of the 17th EAI International Conference on Security and Privacy in Communication Networks ([SecureComm 2021](https://securecomm.eai-conferences.org/2021/)), September 2021.
+  * "[HTPD: Secure and Flexible Message-Based Communication for Mobile Apps](https://people.cs.vt.edu/~tilevich/papers/SecureComm2021.pdf)," Proceedings of the 17th EAI International Conference on Security and Privacy in Communication Networks ([SecureComm 2021](https://securecomm.eai-conferences.org/2021/)), September 2021. <br>
+  <font color=Black>By <b>Yin Liu</b>, Breno Dantas Cruz, and Eli Tilevich</font> <font color=Gold>[C]</font> 
 
 ### Before 2021
-  * <font color=Gold>[C]</font><font color=Black><b>Yin Liu</b> and Eli Tilevich,</font> "[Reducing the Price of Protection: Identifying and Migrating Non-Sensitive Code in TEE](https://people.cs.vt.edu/tilevich/papers/TEE_Insourcing2020.pdf)," Proceedings of the 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications ([TrustCom 2020](https://dblp.org/db/conf/trustcom/trustcom2020.html)), December 29, 2020 - January 1, 2021. 
+  * "[Reducing the Price of Protection: Identifying and Migrating Non-Sensitive Code in TEE](https://people.cs.vt.edu/tilevich/papers/TEE_Insourcing2020.pdf)," Proceedings of the 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications ([TrustCom 2020](https://dblp.org/db/conf/trustcom/trustcom2020.html)), December 29, 2020 - January 1, 2021. <br>
+  <font color=Black>By <b>Yin Liu</b> and Eli Tilevich</font> <font color=Gold>[C]</font> 
 
-  * <font color=Gold>[C]</font><font color=Black><b>Yin Liu</b> and Eli Tilevich,</font> "[VarSem: Declarative Expression and Automated Inference of Variable Usage Semantics](https://people.cs.vt.edu/tilevich/papers/gpce2020.pdf)," Proceedings of the 19th International Conference on Generative Programming: Concepts & Experiences ([GPCE 2020](https://conf.researchr.org/home/gpce-2020?)), November 2020. 
+  * "[VarSem: Declarative Expression and Automated Inference of Variable Usage Semantics](https://people.cs.vt.edu/tilevich/papers/gpce2020.pdf)," Proceedings of the 19th International Conference on Generative Programming: Concepts & Experiences ([GPCE 2020](https://conf.researchr.org/home/gpce-2020?)), November 2020. <br>
+  <font color=Black>By <b>Yin Liu</b> and Eli Tilevich</font> <font color=Gold>[C]</font> 
 
-  * <font color=Green>[J]</font><font color=Black><b>Yin Liu</b>, Kijin An, and Eli Tilevich,</font> "[Automated Refactoring for Different Trusted Execution Environments under Real-Time Constraints](https://people.cs.vt.edu/~tilevich/papers/RT_Trust_for_Journal.pdf)," [Journal of Computer Languages (COLA)](https://www.journals.elsevier.com/journal-of-computer-languages) 2020. **Nominated for Best Paper Award** 
+  * "[Automated Refactoring for Different Trusted Execution Environments under Real-Time Constraints](https://people.cs.vt.edu/~tilevich/papers/RT_Trust_for_Journal.pdf)," [Journal of Computer Languages (COLA)](https://www.journals.elsevier.com/journal-of-computer-languages) 2020. <br>
+  <font color=Black>By <b>Yin Liu</b>, Kijin An, and Eli Tilevich</font> <font color=Green>[J]</font> <font color=Red>Nominated for Best Paper Award</font> 
 
-  * <font color=Gold>[C]</font><font color=Black><b>Yin Liu</b>, Kijin An, and Eli Tilevich,</font> "[RT-Trust: Automated Refactoring for Trusted Execution Under Real-Time Constraints](https://people.cs.vt.edu/~tilevich/papers/cpi-gpce.pdf)," Proceedings of the 17th International Conference on Generative Programming: Concepts & Experience ([GPCE 2018](https://conf.researchr.org/track/gpce-2018/gpce-2018)), November 2018.  Slides   Poster
+  * "[RT-Trust: Automated Refactoring for Trusted Execution Under Real-Time Constraints](https://people.cs.vt.edu/~tilevich/papers/cpi-gpce.pdf)," Proceedings of the 17th International Conference on Generative Programming: Concepts & Experience ([GPCE 2018](https://conf.researchr.org/track/gpce-2018/gpce-2018)), November 2018. <br>
+  <font color=Black>By <b>Yin Liu</b>, Kijin An, and Eli Tilevich</font> <font color=Gold>[C]</font>
 
-  * <font color=Gold>[C]</font><font color=Black><b>Yin Liu</b>, Zheng Song, and Eli Tilevich,</font> "[Querying Invisible Objects: Supporting Data-Driven, Privacy-Preserving Distributed Applications](https://people.cs.vt.edu/~tilevich/papers/obex-manlang.pdf)," Proceedings of the 14th International Conference on Managed Languages & Runtimes ([ManLang 2017](https://d3s.mff.cuni.cz/legacy/conferences/manlang17/?n=Main.HomePage), formerly PPPJ, now called MPLR), September 2017. 
+  * "[Querying Invisible Objects: Supporting Data-Driven, Privacy-Preserving Distributed Applications](https://people.cs.vt.edu/~tilevich/papers/obex-manlang.pdf)," Proceedings of the 14th International Conference on Managed Languages & Runtimes ([ManLang 2017](https://d3s.mff.cuni.cz/legacy/conferences/manlang17/?n=Main.HomePage), formerly PPPJ, now called MPLR), September 2017. <br>
+  <font color=Black>By <b>Yin Liu</b>, Zheng Song, and Eli Tilevich</font> <font color=Gold>[C]</font>
 
 
 
