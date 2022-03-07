@@ -15,7 +15,7 @@ redirect_from:
 ------
 
 ### 2022
-  * <font color=Green>[J]</font><font color=Black><b>Yin Liu</b>, Siddharth Dhar, and Eli Tilevich,</font> "[Only Pay for What You Need: Detecting and Removing Unnecessary TEE-Based Code](https://people.cs.vt.edu/tilevich/papers/TEEInsourcingJSS.pdf),"  [Journal of Systems & Software (JSS)](https://www.journals.elsevier.com/journal-of-systems-and-software), In Print, February 2022.
+  * "[Only Pay for What You Need: Detecting and Removing Unnecessary TEE-Based Code](https://people.cs.vt.edu/tilevich/papers/TEEInsourcingJSS.pdf),"  [Journal of Systems & Software (JSS)](https://www.journals.elsevier.com/journal-of-systems-and-software), In Print, February 2022. <font color=Green>[J]</font><font color=Black><b>Yin Liu</b>, Siddharth Dhar, and Eli Tilevich,</font> 
 
 ### 2021
   * <font color=Gold>[C]</font><font color=Black><b>Yin Liu</b>, Breno Dantas Cruz, and Eli Tilevich,</font> "[Privacy-Preserving Sharing of Mobile Sensor Data](https://people.cs.vt.edu/~tilevich/papers/GoBetween.pdf)," Proceedings of EAI MobiCASE 2021 - 12th EAI International Conference on Mobile Computing, Applications and Services 2021 ([MobiCASE 2021](https://mobicase.eai-conferences.org/2021/)), November 2021. 
