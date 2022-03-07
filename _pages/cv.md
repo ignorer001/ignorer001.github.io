@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Computer Science and Technology, Beijing Forestry University (BJFU), China, 2008
 * M.S. in Computer Software and Theory,  Beijing Forestry University (BJFU), China, 2011
-* Ph.D in Computer Science and Application, Virginia Tech, USA, 2021
+* Ph.D in Computer Science and Applications, Virginia Tech, USA, 2021
 
 Work experience
 ======
