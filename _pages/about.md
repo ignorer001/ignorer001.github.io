@@ -12,8 +12,6 @@ I am a researcher and lecturer at [Beijing University of Technology (BJUT)](http
 
 I hold a Ph.D. in [Computer Science from Virginia Tech](https://cs.vt.edu/) under [Prof. Eli Tilevich](https://people.cs.vt.edu/tilevich/).  
 
-I am using novel ideas and techniques in programming languages, program analysis, and middleware to solve software engineering, mobile, and security problems.
-
 Research Interests
 ---
 I am working at the intersection of **Software Engineering** and **System Security**, using innovative ideas and techniques in *program analysis*, *programming languages*, *trusted execution environment*, and *machine learning* to solve software engineering and security problems.
