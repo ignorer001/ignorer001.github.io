@@ -14,6 +14,37 @@ I hold a Ph.D. in [Computer Science from Virginia Tech](https://cs.vt.edu/) unde
 
 I am using novel ideas and techniques in programming languages, program analysis, and middleware to solve software engineering, mobile, and security problems.
 
+Research Interests
+---
+I am working at the intersection of **Software Engineering** and **System Security**, using innovative ideas and techniques in *program analysis*, *programming languages*, *trusted execution environment*, and *machine learning* to solve software engineering and security problems.
+- **Software Engineering & Programming Languages:** program comprehension; code refactoring (compiler-based solution)
+- **Trusted & Mobile Computing:** trusted execution environment (e.g., SGX, OP-TEE, Trusty); serverless framework
+- **Security & Privacy:** vulnerabilities in mobile systems; differential privacy; critical program information protection
+<details>
+<summary style='margin-left:0in;color#088A85'>Details</summary>
+<ul>
+<li>
+<div style="text-align: justify">
+Program Comprehension: designing program analysis and programming support for inferring the usage semantics of program constructs (published on GPCE’20).
+</div>
+</li>
+
+<li>
+<div style="text-align: justify">
+Trusted Execution Environment & critical code protection: developing powerful programming tools to automatically isolate critical code (published on ManLang’17, GPCE’18, COLA’20, TrustCom’20, JSS’22). <br>
+</div>
+</li>
+
+<li>
+<div style="text-align: justify">
+Security/Privacy in mobile computing: decuring inter-component communications (published on SecureComm’21, MobiCASE’21).<br>
+</div>
+</li>
+
+</ul>
+</details>
+
+
 *I am actively looking for motivated MS, undergraduate students to work with me.* 
 If you are interested in my research and/or have questions, please feel free to drop me an email attached with your CV.
 (*Email: yinliu [AT] bjut [DOT] edu [DOT] cn*)
