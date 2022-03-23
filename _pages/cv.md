@@ -28,7 +28,7 @@ Service
 * **Organizing Committee:** Proceedings Chair for [ManLang 2018](https://ssw.jku.at/Services/conferences/manlang18/)
 * **Reviewer/Sub-Reviewer:** ECOOP’20, Journal of Computers & Security, Journal of Cloud Computing, etc.
 
-### [CV Download](http://ignorer001.github.io/yinl/files/yinliu_cv.pdf)
+### [CV Download](http://ignorer001.github.io/files/yinliu_cv.pdf)
  
 <!-- Skills
 ======
