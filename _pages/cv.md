@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* **B.S.** in Computer Science and Technology, Beijing Forestry University (BJFU), China, 2008
-* **M.S.** in Computer Software and Theory,  Beijing Forestry University (BJFU), China, 2011
 * **Ph.D** in Computer Science and Applications, Virginia Tech, USA, 2021
+* **M.S.** in Computer Software and Theory,  Beijing Forestry University (BJFU), China, 2011
+* **B.S.** in Computer Science and Technology, Beijing Forestry University (BJFU), China, 2008
+
 
 Work experience
 ======
