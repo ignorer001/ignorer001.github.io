@@ -24,9 +24,9 @@ I am working at the intersection of **Software Engineering** and **System Securi
 <summary style='margin-left:0in;color#088A85'>Details</summary>
 <ul>
 <li>
-<div style="text-align: justify">
+<!-- <div style="text-align: justify"> -->
 Program Comprehension: designing program analysis and programming support for inferring the usage semantics of program constructs (published on GPCE’20).
-</div>
+<!-- </div> -->
 </li>
 
 <li>
@@ -43,8 +43,8 @@ Security/Privacy in mobile computing: decuring inter-component communications (p
 
 </ul>
 </details>
+<br>
 
-
-*I am actively looking for motivated MS, undergraduate students to work with me.* 
+**I am actively looking for motivated MS, undergraduate students to work with me.** 
 If you are interested in my research and/or have questions, please feel free to drop me an email attached with your CV.
 (*Email: yinliu [AT] bjut [DOT] edu [DOT] cn*)
