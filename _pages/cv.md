@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Technology, Beijing Forestry University (BJFU), China, 2008
-* M.S. in Computer Software and Theory,  Beijing Forestry University (BJFU), China, 2011
-* Ph.D in Computer Science and Applications, Virginia Tech, USA, 2021
+* **B.S. in Computer Science and Technology, Beijing Forestry University (BJFU), China, 2008**
+* **M.S. in Computer Software and Theory,  Beijing Forestry University (BJFU), China, 2011**
+* **Ph.D in Computer Science and Applications, Virginia Tech, USA, 2021**
 
 Work experience
 ======
-* 2021 - now : Lecturer (tenure-track)
-  * Beijing University of Technology (BJUT), China
+* **2021 - now : Lecturer (tenure-track)**
+  * **Beijing University of Technology (BJUT), China**
 
-* 2011 - 2014 : Software Engineer
-  * Sony Mobile Communications, Beijing, China
+* **2011 - 2014 : Software Engineer**
+  * **Sony Mobile Communications, Beijing, China**
 
 Service
 ======
-* Organizing Committee: Proceedings Chair for [ManLang 2018](https://ssw.jku.at/Services/conferences/manlang18/)
-* Reviewer/Sub-Reviewer: ECOOP’20, Journal of Computers & Security, Journal of Cloud Computing, etc.
+* **Organizing Committee:** Proceedings Chair for [ManLang 2018](https://ssw.jku.at/Services/conferences/manlang18/)
+* **Reviewer/Sub-Reviewer:** ECOOP’20, Journal of Computers & Security, Journal of Cloud Computing, etc.
 
 ### [CV Download](http://ignorer001.github.io/yinl/files/yinliu_cv.pdf)
  
