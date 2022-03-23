@@ -26,21 +26,21 @@ I am working at the intersection of **Software Engineering** and **System Securi
 <li>
 <!-- <div style="text-align: justify"> -->
 Program Comprehension: designing program analysis and programming support for inferring the usage semantics of program constructs. <br>
-  published on GPCE’20
+  <i> published on GPCE’20 </i>
 <!-- </div> -->
 </li>
 
 <li>
 <!-- <div style="text-align: justify"> -->
 Trusted Execution Environment & critical code protection: developing powerful programming tools to automatically isolate critical code. <br>
-  published on ManLang’17, GPCE’18, COLA’20, TrustCom’20, JSS’22
+  <i> published on ManLang’17, GPCE’18, COLA’20, TrustCom’20, JSS’22 </i>
 <!-- </div> -->
 </li>
 
 <li>
 <!-- <div style="text-align: justify"> -->
 Security/Privacy in mobile computing: decuring inter-component communications. <br> 
-  published on SecureComm’21, MobiCASE’21
+  <i> published on SecureComm’21, MobiCASE’21 </i>
 <!-- </div> -->
 </li>
 
