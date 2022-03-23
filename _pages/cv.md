@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 ======
-* **B.S. in Computer Science and Technology, Beijing Forestry University (BJFU), China, 2008**
-* **M.S. in Computer Software and Theory,  Beijing Forestry University (BJFU), China, 2011**
-* **Ph.D in Computer Science and Applications, Virginia Tech, USA, 2021**
+* **B.S.** in Computer Science and Technology, Beijing Forestry University (BJFU), China, 2008
+* **M.S.** in Computer Software and Theory,  Beijing Forestry University (BJFU), China, 2011
+* **Ph.D** in Computer Science and Applications, Virginia Tech, USA, 2021
 
 Work experience
 ======
-* **2021 - now : Lecturer (tenure-track)**
-  * **Beijing University of Technology (BJUT), China**
+* 2021 - now : **Lecturer (tenure-track)**
+  * Beijing University of Technology (BJUT), China
 
-* **2011 - 2014 : Software Engineer**
-  * **Sony Mobile Communications, Beijing, China**
+* 2011 - 2014 : **Software Engineer**
+  * Sony Mobile Communications, Beijing, China
 
 Service
 ======
