@@ -15,6 +15,9 @@ redirect_from:
 ------
 
 ### 2022
+  * "[Secure and Flexible Message-Based Communication for Mobile Apps Within and Across Devices](),"  [Journal of Systems & Software (JSS)](https://www.journals.elsevier.com/journal-of-systems-and-software), In Print, July 2022. <br>
+    <font color=Black>By <b>Yin Liu</b>, Breno Cruz, and Eli Tilevich</font> <font color=Green>[J][SCI, CCF-B] </font>
+    
   * "[Only Pay for What You Need: Detecting and Removing Unnecessary TEE-Based Code](https://people.cs.vt.edu/tilevich/papers/TEEInsourcingJSS.pdf),"  [Journal of Systems & Software (JSS)](https://www.journals.elsevier.com/journal-of-systems-and-software), In Print, February 2022. <br>
     <font color=Black>By <b>Yin Liu</b>, Siddharth Dhar, and Eli Tilevich</font> <font color=Green>[J][SCI, CCF-B] </font>
 
