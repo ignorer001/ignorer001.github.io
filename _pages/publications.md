@@ -15,6 +15,9 @@ redirect_from:
 ------
 
 ### 2022
+  * "[Toward a Better Alignment Between the Research and Practice of Code Search Engines]()," Proceedings of the 29th Asia-Pacific Software Engineering Conference ([APSEC 2022](https://conf.researchr.org/home/apsec-2022)), December, 2022. <br>
+    <font color=Black>By <b>Yin Liu</b>, Shuangyi li, and Eli Tilevich</font> <font color=Gold>[C][EI, CCF-C]</font> 
+    
   * "[Secure and Flexible Message-Based Communication for Mobile Apps Within and Across Devices](),"  [Journal of Systems & Software (JSS)](https://www.journals.elsevier.com/journal-of-systems-and-software), In Print, July 2022. <br>
     <font color=Black>By <b>Yin Liu</b>, Breno Cruz, and Eli Tilevich</font> <font color=Green>[J][SCI, CCF-B] </font>
     
