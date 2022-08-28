@@ -37,7 +37,7 @@ Trusted Execution Environment & critical code protection: developing powerful pr
 
 <li>
 <!-- <div style="text-align: justify"> -->
-Security/Privacy in mobile computing: decuring inter-component communications. <br> 
+Security/Privacy in mobile computing: securing inter-component communications. <br> 
   <i> published on SecureComm’21, MobiCASE’21, JSS’22 </i>
 <!-- </div> -->
 </li>
