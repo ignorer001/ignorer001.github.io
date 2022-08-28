@@ -30,7 +30,7 @@ Program Comprehension: designing program analysis and programming support for in
 
 <li>
 <!-- <div style="text-align: justify"> -->
-Trusted Execution Environment & critical code protection: developing powerful programming tools to automatically isolate critical code. <br>
+Trusted Execution Environment & Critical Code Protection: developing powerful programming tools to automatically isolate critical code. <br>
   <i> published on ManLang’17, GPCE’18, COLA’20, TrustCom’20, JSS’22 </i>
 <!-- </div> -->
 </li>
