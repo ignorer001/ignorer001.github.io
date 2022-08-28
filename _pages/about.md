@@ -16,7 +16,7 @@ Research Interests
 ---
 I am working at the intersection of **Software Engineering** and **Security & Privacy**, using innovative ideas and techniques in *program analysis*, *programming languages*, *trusted execution environment*, and *machine learning* to solve software engineering and security/privacy problems.
 - **Software Engineering & Programming Languages:** program comprehension; code refactoring (compiler-based solution)
-- **Trusted & Mobile Computing:** trusted execution environment (e.g., SGX, OP-TEE, Trusty); serverless framework
+- **Trusted & Mobile Computing:** Trusted Execution Environment - TEE (e.g., SGX, OP-TEE, Trusty); serverless framework
 - **Security & Privacy:** vulnerabilities in mobile systems; differential privacy; critical program information protection
 <details>
 <summary style='margin-left:0in;color#088A85'>Details</summary>
@@ -30,7 +30,7 @@ Program Comprehension: designing program analysis and programming support for in
 
 <li>
 <!-- <div style="text-align: justify"> -->
-Trusted Execution Environment & Critical Code Protection: developing powerful programming tools to automatically isolate critical code. <br>
+TEE-based Critical Code Protection: developing powerful programming tools to automatically isolate critical code. <br>
   <i> published on ManLang’17, GPCE’18, COLA’20, TrustCom’20, JSS’22 </i>
 <!-- </div> -->
 </li>
