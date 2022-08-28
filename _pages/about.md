@@ -14,7 +14,7 @@ I hold a Ph.D. in [Computer Science from Virginia Tech](https://cs.vt.edu/) unde
 
 Research Interests
 ---
-I am working at the intersection of **Software Engineering** and **System Security**, using innovative ideas and techniques in *program analysis*, *programming languages*, *trusted execution environment*, and *machine learning* to solve software engineering and security problems.
+I am working at the intersection of **Software Engineering** and **Security & Privacy**, using innovative ideas and techniques in *program analysis*, *programming languages*, *trusted execution environment*, and *machine learning* to solve software engineering and security/privacy problems.
 - **Software Engineering & Programming Languages:** program comprehension; code refactoring (compiler-based solution)
 - **Trusted & Mobile Computing:** trusted execution environment (e.g., SGX, OP-TEE, Trusty); serverless framework
 - **Security & Privacy:** vulnerabilities in mobile systems; differential privacy; critical program information protection
