@@ -48,7 +48,7 @@ Security/Privacy in mobile computing: securing inter-component communications. <
 
 News
 ---
-- **I am actively looking for motivated MS, undergraduate students to work with me.** 
+- 📢 **I am actively looking for motivated MS, undergraduate students to work with me.** 
 If you are interested in my research and/or have questions, please feel free to drop me an email attached with your CV.
 (*Email: yinliu [AT] bjut [DOT] edu [DOT] cn*)
 - August 2022. 1 paper accepted to APSEC'22!
