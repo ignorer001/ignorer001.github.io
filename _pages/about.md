@@ -48,9 +48,9 @@ Security/Privacy in mobile computing: securing inter-component communications. <
 
 News
 ---
-- 📢 :loudspeaker: **I am actively looking for motivated MS, undergraduate students to work with me.** 
+- 📢 **I am actively looking for motivated MS, undergraduate students to work with me.** 
 If you are interested in my research and/or have questions, please feel free to drop me an email attached with your CV.
 (*Email: yinliu [AT] bjut [DOT] edu [DOT] cn*)
-- August 2022. 1 paper accepted to APSEC'22!
-- July 2022. 1 article accepted to Journal of Systems & Software (JSS)!
-- February 2022. 1 article accepted to Journal of Systems & Software (JSS)!
+- August 2022. One paper accepted to APSEC'22!
+- July 2022. One article accepted to Journal of Systems & Software (JSS)!
+- February 2022. One article accepted to Journal of Systems & Software (JSS)!
