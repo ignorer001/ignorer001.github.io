@@ -38,7 +38,7 @@ Trusted Execution Environment & critical code protection: developing powerful pr
 <li>
 <!-- <div style="text-align: justify"> -->
 Security/Privacy in mobile computing: decuring inter-component communications. <br> 
-  <i> published on SecureComm’21, MobiCASE’21 </i>
+  <i> published on SecureComm’21, MobiCASE’21, JSS’22 </i>
 <!-- </div> -->
 </li>
 
@@ -53,3 +53,4 @@ If you are interested in my research and/or have questions, please feel free to 
 (*Email: yinliu [AT] bjut [DOT] edu [DOT] cn*)
 - August 2022. 1 paper accepted to APSEC'22!
 - July 2022. 1 article accepted to Journal of Systems & Software (JSS)!
+- February 2022. 1 article accepted to Journal of Systems & Software (JSS)!
