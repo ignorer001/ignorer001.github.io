@@ -15,13 +15,13 @@ redirect_from:
 ------
 
 ### 2022
-  * "[Toward a Better Alignment Between the Research and Practice of Code Search Engines]()," Proceedings of the 29th Asia-Pacific Software Engineering Conference ([APSEC 2022](https://conf.researchr.org/home/apsec-2022)), December, 2022. <br>
+  * "[Toward a Better Alignment Between the Research and Practice of Code Search Engines](https://people.cs.vt.edu/tilevich/papers/APSEC22.pdf)," Proceedings of the 29th Asia-Pacific Software Engineering Conference ([APSEC 2022](https://conf.researchr.org/home/apsec-2022)), December, 2022. <br>
     <font color=Black>By <b>Yin Liu</b>, Shuangyi li, and Eli Tilevich</font> <font color=Gold>[C][EI, CCF-C]</font> 
     
-  * "[Secure and Flexible Message-Based Communication for Mobile Apps Within and Across Devices](),"  [Journal of Systems & Software (JSS)](https://www.journals.elsevier.com/journal-of-systems-and-software), In Print, July 2022. <br>
+  * "[Secure and Flexible Message-Based Communication for Mobile Apps Within and Across Devices](https://people.cs.vt.edu/tilevich/papers/HTPD_Journal.pdf),"  Journal of Systems & Software ([JSS](https://www.journals.elsevier.com/journal-of-systems-and-software)), In Print, July 2022. <br>
     <font color=Black>By <b>Yin Liu</b>, Breno Cruz, and Eli Tilevich</font> <font color=Green>[J][SCI, CCF-B] </font>
     
-  * "[Only Pay for What You Need: Detecting and Removing Unnecessary TEE-Based Code](https://people.cs.vt.edu/tilevich/papers/TEEInsourcingJSS.pdf),"  [Journal of Systems & Software (JSS)](https://www.journals.elsevier.com/journal-of-systems-and-software), In Print, February 2022. <br>
+  * "[Only Pay for What You Need: Detecting and Removing Unnecessary TEE-Based Code](https://people.cs.vt.edu/tilevich/papers/TEEInsourcingJSS.pdf),"  Journal of Systems & Software ([JSS](https://www.journals.elsevier.com/journal-of-systems-and-software)), In Print, February 2022. <br>
     <font color=Black>By <b>Yin Liu</b>, Siddharth Dhar, and Eli Tilevich</font> <font color=Green>[J][SCI, CCF-B] </font>
 
 ### 2021
