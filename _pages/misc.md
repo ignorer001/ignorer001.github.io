@@ -29,4 +29,4 @@ Besides, I always enjoy reading Lu Xun, Milan Kundera, Franz Kafka, and Haruki M
 
 ### One of my published online Articles
 
-"[Play Chess (下棋)](https://www.gushiciku.cn/dc_hk/102221408)",  WeChat Official Accounts of Zhonghua Book Company 
+"[Play Chess (下棋)](https://www.gushiciku.cn/dc_hk/102221408)",  WeChat Official Accounts of Zhonghua Book Company (中华书局-官方微信公众号)
