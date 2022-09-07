@@ -9,7 +9,7 @@ redirect_from:
 
 ## Awards
 * Outstanding Trainee, Teaching Ability Training for Young Faculties, Beijing University of Technology, 2022 [:scroll:](http://ignorer001.github.io/files/outstanding-trainee.pdf)
-* 2019 Best Paper Runners Up - Journal of Computer Languages[:scroll:](http://ignorer001.github.io/files/COLA19-bestpaper-runnerup.pdf)
+* Best Paper Runners Up - Journal of Computer Languages, 2019 [:scroll:](http://ignorer001.github.io/files/COLA19-bestpaper-runnerup.pdf)
 * BitShares Graduate Fellowship, Department of Computer Science of Virginia Tech, 2019
 * Intellectual Property Rights Inventor Award, Invention: Swap Top-half and Low-half of Display on Large Screen, Sony Mobile Communication, 2014
 * Intellectual Property Rights Inventor Award, Invention: Stop music in earphone when someone speaks to you, Sony Mobile Communication, 2014
