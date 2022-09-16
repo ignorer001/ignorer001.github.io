@@ -19,7 +19,7 @@ redirect_from:
 
 ## Hobbies
 I love Literature as much as Computer Science, especially, Chinese Classical Literature. <br>
-I'm a big fan of Classical Chinese poetry, and Romance of the Three Kingdoms (one of the four great classical novels of Chinese Literature).
+I'm a big fan of Classical Chinese poetry and Romance of the Three Kingdoms (one of the four great classical novels of Chinese Literature).
 Besides, I always enjoy reading Lu Xun, Milan Kundera, Franz Kafka, and Haruki Murakami.
 
 ### One of my Poems
