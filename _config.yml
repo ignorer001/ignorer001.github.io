@@ -220,6 +220,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _reading_papers
+  - scope:
+      path: ""
+      type: paper-reading-group
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
