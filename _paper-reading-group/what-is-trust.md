@@ -1,7 +1,7 @@
 ---
 title: "Trust"
 collection: paper-reading-group
-permalink: /paper-reading-group/test-reading-papers
+permalink: /paper-reading-group/what-is-trust
 ---
 
 ## What is "Trust"
