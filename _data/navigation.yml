@@ -21,5 +21,8 @@ main:
   - title: "MISC"
     url: /misc/    
     
+  - title: "Reading Papers"
+    url: /paper-reading-group/   
+    
 #   - title: "Guide"
 #     url: /markdown/
