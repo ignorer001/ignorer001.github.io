@@ -220,7 +220,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _reading_papers
+  # _paper-reading-group
   - scope:
       path: ""
       type: paper-reading-group
