@@ -27,7 +27,7 @@ Work experience
 Service
 ======
 * **Organizing Committee:** Proceedings Chair for [ManLang 2018](https://ssw.jku.at/Services/conferences/manlang18/)
-* **Reviewer/Sub-Reviewer:** ECOOP’20, Journal of Computers & Security, Journal of Cloud Computing, etc.
+
 
 
 :tiger: ***CV Download*** [:page_facing_up:](http://ignorer001.github.io/files/yinliu_cv.pdf)
