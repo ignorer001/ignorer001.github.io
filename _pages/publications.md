@@ -14,15 +14,19 @@ redirect_from:
 <!-- <font color=Green>[J]</font> --> 
 ------
 
+### 2023 
+  * "[Trusted and Privacy-Preserving Sensor Data Onloading](),"  Computer Communications ([CC](https://www.sciencedirect.com/journal/computer-communications)), Accepted, 2023. <br>
+    <font color=Black>By <b>Yin Liu</b>, Breno Cruz, and Eli Tilevich</font> <font color=Green>[J][SCI-Q1, CCF-C] </font>
+
 ### 2022
   * "[Toward a Better Alignment Between the Research and Practice of Code Search Engines](https://people.cs.vt.edu/tilevich/papers/APSEC22.pdf)," Proceedings of the 29th Asia-Pacific Software Engineering Conference ([APSEC 2022](https://conf.researchr.org/home/apsec-2022)), December, 2022. <br>
     <font color=Black>By <b>Yin Liu</b>, Shuangyi li, and Eli Tilevich</font> <font color=Gold>[C][EI, CCF-C]</font> 
     
   * "[Secure and Flexible Message-Based Communication for Mobile Apps Within and Across Devices](https://people.cs.vt.edu/tilevich/papers/HTPD_Journal.pdf),"  Journal of Systems & Software ([JSS](https://www.journals.elsevier.com/journal-of-systems-and-software)), In Print, July 2022. <br>
-    <font color=Black>By <b>Yin Liu</b>, Breno Cruz, and Eli Tilevich</font> <font color=Green>[J][SCI, CCF-B] </font>
+    <font color=Black>By <b>Yin Liu</b>, Breno Cruz, and Eli Tilevich</font> <font color=Green>[J][SCI-Q2, CCF-B] </font>
     
   * "[Only Pay for What You Need: Detecting and Removing Unnecessary TEE-Based Code](https://people.cs.vt.edu/tilevich/papers/TEEInsourcingJSS.pdf),"  Journal of Systems & Software ([JSS](https://www.journals.elsevier.com/journal-of-systems-and-software)), In Print, February 2022. <br>
-    <font color=Black>By <b>Yin Liu</b>, Siddharth Dhar, and Eli Tilevich</font> <font color=Green>[J][SCI, CCF-B] </font>
+    <font color=Black>By <b>Yin Liu</b>, Siddharth Dhar, and Eli Tilevich</font> <font color=Green>[J][SCI-Q2, CCF-B] </font>
 
 ### 2021
   * "[Privacy-Preserving Sharing of Mobile Sensor Data](https://people.cs.vt.edu/~tilevich/papers/GoBetween.pdf)," Proceedings of EAI MobiCASE 2021 - 12th EAI International Conference on Mobile Computing, Applications and Services 2021 ([MobiCASE 2021](https://mobicase.eai-conferences.org/2021/)), November 2021. <br>
@@ -39,7 +43,7 @@ redirect_from:
     <font color=Black>By <b>Yin Liu</b> and Eli Tilevich</font> <font color=Gold>[C][EI, CORE-B]</font> 
 
   * "[Automated Refactoring for Different Trusted Execution Environments under Real-Time Constraints](https://people.cs.vt.edu/~tilevich/papers/RT_Trust_for_Journal.pdf)," [Journal of Computer Languages (COLA)](https://www.journals.elsevier.com/journal-of-computer-languages) 2020. <br>
-    <font color=Black>By <b>Yin Liu</b>, Kijin An, and Eli Tilevich</font> <font color=Green>[J][SCI]</font> **Nominated for Best Paper Award**
+    <font color=Black>By <b>Yin Liu</b>, Kijin An, and Eli Tilevich</font> <font color=Green>[J][SCI-Q3]</font> **Nominated for Best Paper Award**
 
   * "[RT-Trust: Automated Refactoring for Trusted Execution Under Real-Time Constraints](https://people.cs.vt.edu/~tilevich/papers/cpi-gpce.pdf)," Proceedings of the 17th International Conference on Generative Programming: Concepts & Experience ([GPCE 2018](https://conf.researchr.org/track/gpce-2018/gpce-2018)), November 2018. <br>
     <font color=Black>By <b>Yin Liu</b>, Kijin An, and Eli Tilevich</font> <font color=Gold>[C][EI, CORE-B]</font>
