@@ -14,9 +14,10 @@ I hold a Ph.D. in [Computer Science from Virginia Tech](https://cs.vt.edu/) unde
 
 Research Interests
 ---
-I am working at the intersection of **Software Engineering** and **Software Security & Privacy**, using innovative ideas and techniques in *program analysis*, *programming languages*, *trusted execution environment*, and *machine learning* to solve software engineering and security/privacy problems.
-- **Software Engineering:** program comprehension; code refactoring (compiler-based solution)
-- **Trusted & Mobile Computing:** Trusted Execution Environment - TEE (e.g., SGX, OP-TEE, Trusty); serverless framework
+My primary research focus is on **Software Engineering**, with additional interests in **Trusted & Mobile Computing** and **Software Security & Privacy**.
+I use innovative ideas and techniques in *programming languages*, *program analysis*, *trusted execution environment*, and *machine learning* to solve software engineering and security/privacy problems.
+- **Software Engineering:** software testing; program comprehension; code refactoring (compiler-based solution)
+- **Trusted & Mobile Computing:** trusted execution environment-based software; Android system/framework/app
 - **Security & Privacy:** vulnerability detection in mobile apps/systems; privacy-preserving techniques; critical program information protection
 <details>
 <summary style='margin-left:0in;color#088A85'>Details</summary>
@@ -56,9 +57,10 @@ perspectives as well as the state of the art. <br>
 
 News
 ---
-- 📢 **I am actively looking for motivated MS, undergraduate students to work with me.** 
+- 📢 **I am always looking for motivated MS, undergraduate students to work with me.** 
 If you are interested in my research and/or have questions, please feel free to drop me an email attached with your CV.
 (*Email: yinliu [AT] bjut [DOT] edu [DOT] cn*)
+- April 2023. One article accepted to Computer Communications (CC)!
 - August 2022. One paper accepted to APSEC'22!
 - July 2022. One article accepted to Journal of Systems & Software (JSS)!
 - February 2022. One article accepted to Journal of Systems & Software (JSS)!
