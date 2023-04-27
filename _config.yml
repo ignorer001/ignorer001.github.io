@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yin Liu 刘寅, Ph.D."
   avatar           : "myprofile_light.jpg"
-  bio              : "Researcher & Lecturer @ BJUT"
+  bio              : "Researcher & Lecturer @ BJUT <br> yinliu [AT] bjut.edu.cn"
   location         : "Beijing, China"
   employer         :
   pubmed           :
   googlescholar    : https://scholar.google.com/citations?user=Qnh7iccAAAAJ&hl=en
-  email            : yinliu [AT] bjut.edu.cn
+  email            :
   researchgate     :
   uri              :
   bitbucket        :
