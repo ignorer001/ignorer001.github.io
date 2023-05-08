@@ -15,7 +15,7 @@ redirect_from:
 ------
 
 ### 2023 
-  * "[Trusted and Privacy-Preserving Sensor Data Onloading](),"  Computer Communications ([CC](https://www.sciencedirect.com/journal/computer-communications)), Accepted, 2023. <br>
+  * "[Trusted and Privacy-Preserving Sensor Data Onloading](https://people.cs.vt.edu/tilevich/papers/SensorDataOnloadingJournal.pdf),"  Computer Communications ([CC](https://www.sciencedirect.com/journal/computer-communications)), Accepted, 2023. <br>
     <font color=Black>By <b>Yin Liu</b>, Breno Cruz, and Eli Tilevich</font> <font color=Green>[J][SCI-Q1, CCF-C] </font>
 
 ### 2022
