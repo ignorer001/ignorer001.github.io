@@ -42,7 +42,7 @@ redirect_from:
   * "[VarSem: Declarative Expression and Automated Inference of Variable Usage Semantics](https://people.cs.vt.edu/tilevich/papers/gpce2020.pdf)," Proceedings of the 19th International Conference on Generative Programming: Concepts & Experiences ([GPCE 2020](https://conf.researchr.org/home/gpce-2020?)), November 2020. <br>
     <font color=Black>By <b>Yin Liu</b> and Eli Tilevich</font> <font color=Gold>[C][EI, CORE-B]</font> 
 
-  * "[Automated Refactoring for Different Trusted Execution Environments under Real-Time Constraints](https://people.cs.vt.edu/~tilevich/papers/RT_Trust_for_Journal.pdf)," [Journal of Computer Languages (COLA)](https://www.journals.elsevier.com/journal-of-computer-languages) 2020. <br>
+  * "[RT-Trust: Automated Refactoring for Different Trusted Execution Environments under Real-Time Constraints](https://people.cs.vt.edu/~tilevich/papers/RT_Trust_for_Journal.pdf)," [Journal of Computer Languages (COLA)](https://www.journals.elsevier.com/journal-of-computer-languages) 2020. <br>
     <font color=Black>By <b>Yin Liu</b>, Kijin An, and Eli Tilevich</font> <font color=Green>[J][SCI-Q3]</font> **Nominated for Best Paper Award**
 
   * "[RT-Trust: Automated Refactoring for Trusted Execution Under Real-Time Constraints](https://people.cs.vt.edu/~tilevich/papers/cpi-gpce.pdf)," Proceedings of the 17th International Conference on Generative Programming: Concepts & Experience ([GPCE 2018](https://conf.researchr.org/track/gpce-2018/gpce-2018)), November 2018. <br>
