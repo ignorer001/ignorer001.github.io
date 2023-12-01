@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* 2021 - now : **Lecturer (tenure-track), Master’s Advisor (for International Students)**
+* 2021 - now : **Lecturer** (tenure-track), **Master’s Advisor** (for both local and international students)
   * Beijing University of Technology (BJUT), China
 
 * 2011 - 2014 : **Software Engineer**
