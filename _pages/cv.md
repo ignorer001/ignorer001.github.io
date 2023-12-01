@@ -26,7 +26,7 @@ Work experience
 
 Service
 ======
-* **Organizing Committee:** Proceedings Chair for [ManLang 2018](https://ssw.jku.at/Services/conferences/manlang18/)
+* **Organizing Committee:** Proceedings Chair for [ManLang 2018](https://ssw.jku.at/Services/conferences/manlang18/manlang/organization)
 
 
 
