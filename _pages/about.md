@@ -38,7 +38,7 @@ TEE-based Critical Code Protection: developing powerful programming tools to aut
 
 <li>
 <!-- <div style="text-align: justify"> -->
-Security/Privacy in mobile computing: ensuring security for inter-component communications, and privacy for data sharing. <br> 
+Security/Privacy in Mobile Computing: ensuring security for inter-component communications, and privacy for data sharing. <br> 
   <i> published on SecureComm’21, MobiCASE’21, JSS’22, CC'23 </i>
 <!-- </div> -->
 </li>
