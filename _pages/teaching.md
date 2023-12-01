@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## 2022/2023 Fall
+## Fall 2022/2023
 
 ### Freshman Seminar (新生研讨课)
 Privacy Computing and Software Engineering (隐私计算与软件工程) [:page_with_curl:](http://ignorer001.github.io/files/Freshman_Seminar_Course.pdf)
