@@ -7,7 +7,7 @@ redirect_from:
   - /teaching
 ---
 
-## Fall 2024
+## Spring 2024
 
 ### Programming in Python (Python程序开发)
 
