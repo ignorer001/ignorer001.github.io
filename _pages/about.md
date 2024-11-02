@@ -60,7 +60,7 @@ News
 - 📢 **I am always looking for motivated MS, undergraduate students to work with me.** 
 If you are interested in my research and/or have questions, please feel free to drop me an email attached with your CV.
 (*Email: yinliu [AT] bjut [DOT] edu [DOT] cn*)
-- Nov 2024. Two papers accepted to TrustCom24! Congratulations to all the authors!
+- Nov 2024. Two papers accepted to TrustCom'24! Congratulations to all the authors!
 - Nov 2024. I start to serve as a "Young Mentor for International Development" at BJUT, although I'm not very young😊
 - April 2023. One article accepted to Computer Communications (CC)!
 - August 2022. One paper accepted to APSEC'22!
