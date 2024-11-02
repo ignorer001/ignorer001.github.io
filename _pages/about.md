@@ -25,29 +25,29 @@ I use innovative ideas and techniques in *programming languages*, *program analy
 <li>
 <!-- <div style="text-align: justify"> -->
 Program Comprehension: designing program analysis and programming support for inferring the usage semantics of program constructs. <br>
-  <i> published on GPCE’20 </i>
+  <i> published on GPCE'20 </i>
 <!-- </div> -->
 </li>
 
 <li>
 <!-- <div style="text-align: justify"> -->
 TEE-based Critical Code Protection: developing powerful programming tools to automatically isolate critical code. <br>
-  <i> published on ManLang’17, GPCE’18, COLA’20, TrustCom’20, JSS’22 </i>
+  <i> published on ManLang'17, GPCE'18, COLA'20, TrustCom'20,'24, JSS'22 </i>
 <!-- </div> -->
 </li>
 
 <li>
 <!-- <div style="text-align: justify"> -->
 Security/Privacy in Mobile Computing: ensuring security for inter-component communications, and privacy for data sharing. <br> 
-  <i> published on SecureComm’21, MobiCASE’21, JSS’22, CC'23 </i>
+  <i> published on SecureComm'21, MobiCASE'21, JSS'22, CC'23, TrustCom'24 </i>
 <!-- </div> -->
 </li>
   
 <li>
 <!-- <div style="text-align: justify"> -->
-Code Search Engine: drawing a comprehensive picture of code search engines, as reflected in developers’ experiences and
+Code Search Engine: drawing a comprehensive picture of code search engines, as reflected in developers' experiences and
 perspectives as well as the state of the art. <br> 
-  <i> published on APSEC’22 </i>
+  <i> published on APSEC'22 </i>
 <!-- </div> -->
 </li>
 
