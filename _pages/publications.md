@@ -9,8 +9,7 @@ redirect_from:
 
 ## Peer-reviewed Publications
 
-<font color=Gold>[C] Conference Proceeding</font> <font color=Green>[J] Journal Article</font> <br>
-Note: students whom I advise are underlined.
+<font color=Gold>[C] Conference Proceeding</font> <font color=Green>[J] Journal Article</font> (Note: students whom I advise are underlined)
 <!-- <font color=Gold>[C]</font> -->
 <!-- <font color=Green>[J]</font> --> 
 ------
