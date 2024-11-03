@@ -9,10 +9,18 @@ redirect_from:
 
 ## Peer-reviewed Publications
 
-<font color=Gold>[C] Conference Proceeding</font> <font color=Green>[J] Journal Article</font>
+<font color=Gold>[C] Conference Proceeding</font> <font color=Green>[J] Journal Article</font> <br>
+Note: students whom I advise are underlined.
 <!-- <font color=Gold>[C]</font> -->
 <!-- <font color=Green>[J]</font> --> 
 ------
+
+### 2024
+  * "Three-Body Problem: An Empirical Study on Smartphone-based TEEs, TEE-based Apps, and their Interactions" (to appear), Proceedings of the 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications ([TrustCom 2024](http://ieee-aiplus.org/2024/trustcom/index.php)), December 17-21, 2024. <br>
+    <font color=Black>By <u>Xianghui Dong</u>, <b>Yin Liu</b>, and Xuejun Yu</font> <font color=Gold>[C][EI, CCF-C]</font>
+
+  * "A Quiet Place: An In-Depth Study of Mobile Public-to-Private Attacks" (to appear), Proceedings of the 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications ([TrustCom 2024](http://ieee-aiplus.org/2024/trustcom/index.php)), December 17-21, 2024. <br>
+    <font color=Black>By <b>Yin Liu</b> </font> <font color=Gold>[C][EI, CCF-C]</font> 
 
 ### 2023 
   * "[Trusted and Privacy-Preserving Sensor Data Onloading](https://people.cs.vt.edu/tilevich/papers/SensorDataOnloadingJournal.pdf),"  Computer Communications ([CC](https://www.sciencedirect.com/journal/computer-communications)), In Print, 2023. <br>
