@@ -26,6 +26,7 @@ Work experience
 
 Service
 ======
+* **Youth Mentor of Student International Development**, Beijing University of Technology, 2024-present
 * **Organizing Committee:** Proceedings Chair for [ManLang 2018](https://ssw.jku.at/Services/conferences/manlang18/manlang/organization)
 
 
