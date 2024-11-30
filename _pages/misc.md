@@ -10,7 +10,7 @@ redirect_from:
 ## Awards
 * Second Prize, Young Faculties Teaching Skills Competition, College of Computer Science at Beijing University of Technology, 2024
 * Outstanding Trainee, Teaching Ability Training for Young Faculties, Beijing University of Technology, 2022 [:scroll:](http://ignorer001.github.io/files/outstanding-trainee.pdf)
-* Best Paper Runners Up - Journal of Computer Languages, 2019 [:scroll:](http://ignorer001.github.io/files/COLA19-bestpaper-runnerup.pdf)
+* Best Paper Runners Up - Journal of Computer Languages, 2020 [:scroll:](http://ignorer001.github.io/files/COLA19-bestpaper-runnerup.pdf)
 * BitShares Graduate Fellowship, Department of Computer Science of Virginia Tech, 2019
 * Intellectual Property Rights Inventor Award (Twice), Sony Mobile Communication, 2014
 * Best Collaborator and Friendliest Developer, Sony Mobile Communication, 2012
