@@ -15,10 +15,10 @@ redirect_from:
 <!-- ------ --> 
 
 ### 2024
-  * "Three-Body Problem: An Empirical Study on Smartphone-based TEEs, TEE-based Apps, and their Interactions" (to appear), Proceedings of the 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications ([TrustCom 2024](http://ieee-aiplus.org/2024/trustcom/index.php)), December 17-21, 2024. <br>
+  * "[Three-Body Problem: An Empirical Study on Smartphone-based TEEs, TEE-based Apps, and their Interactions](http://ignorer001.github.io/files/Xianghui_TrustCom24.pdf)", Proceedings of the 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications ([TrustCom 2024](http://ieee-aiplus.org/2024/trustcom/index.php)), December 17-21, 2024. <br>
     <font color=Black>By <u>Xianghui Dong</u>, <b>Yin Liu</b>, and Xuejun Yu</font> <font color=Gold>[C][EI, CCF-C]</font>
 
-  * "A Quiet Place: An In-Depth Study of Mobile Public-to-Private Attacks" (to appear), Proceedings of the 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications ([TrustCom 2024](http://ieee-aiplus.org/2024/trustcom/index.php)), December 17-21, 2024. <br>
+  * "[A Quiet Place: An In-Depth Study of Mobile Public-to-Private Attacks](http://ignorer001.github.io/files/YinLiu_TrustCom24.pdf)", Proceedings of the 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications ([TrustCom 2024](http://ieee-aiplus.org/2024/trustcom/index.php)), December 17-21, 2024. <br>
     <font color=Black>By <b>Yin Liu</b> </font> <font color=Gold>[C][EI, CCF-C]</font> 
 
 ### 2023 
