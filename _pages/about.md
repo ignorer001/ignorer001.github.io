@@ -67,7 +67,7 @@ News
 - 📢 **I am always looking for motivated MS, undergraduate students to work with me.** 
 If you are interested in my research and/or have questions, please feel free to drop me an email attached with your CV.
 (*Email: yinliu [AT] bjut [DOT] edu [DOT] cn*)
-- Oct. 2025. one paper accepted to CloudCom'25! Congratulations to Jiapei!
+- Oct. 2025. One paper accepted to CloudCom'25! Congratulations to Jiapei!
 - Nov. 2024. Two papers accepted to TrustCom'24! Congratulations to Xianghui!
 - Nov. 2024. I start to serve as a "Youth Mentor of Student International Development" at BJUT, although I'm not very young anymore😊
 - April 2023. One article accepted to Computer Communications (CC)!
