@@ -16,7 +16,7 @@ redirect_from:
 
 ### 2025
   * "The Twilight of SGX, but Not its Tests: An In-Depth Study of Testing in SGX Projects (to appear)", Proceedings of the 16th IEEE International Conference on Cloud Computing Technology and Science (CloudCom), November 14-16, 2025. <br>
-<font color=Black>By <u>Jiapei Deng</u> and <b>Yin Liu</b> <font color=Gold>[C][EI, CORE-C]</font>
+    <font color=Black>By <u>Jiapei Deng</u> and <b>Yin Liu</b> <font color=Gold>[C][EI, CORE-C]</font>
 
 ### 2024
   * "[Three-Body Problem: An Empirical Study on Smartphone-based TEEs, TEE-based Apps, and their Interactions](http://ignorer001.github.io/files/Xianghui_TrustCom24.pdf)", Proceedings of the 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications ([TrustCom 2024](http://ieee-aiplus.org/2024/trustcom/index.php)), December 17-21, 2024. <br>
