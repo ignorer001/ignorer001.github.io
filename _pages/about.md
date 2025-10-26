@@ -25,7 +25,7 @@ I use innovative ideas and techniques in *programming languages*, *program analy
 <li>
 <!-- <div style="text-align: justify"> -->
 Understanding and Testing Performance Issues for Trusted Execution Environment in Android Platform <br>
-  <i> published on TrustCom’24 </i>
+  <i> published on TrustCom'24, CloudCom'25 </i>
 <!-- </div> -->
 </li>
 
