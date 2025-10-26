@@ -15,7 +15,7 @@ redirect_from:
 * Zuhong Yu, M.S.
 * Fengqi Xu, B.S.
 * Xiyuan Jiang, B.S.
-* Xuanlin lv, B.S.
+* Xuanlin Lv, B.S.
 
 ## Alumni
 * Xianghui Dong, M.S. 2025 (co-adviced with Dr. Xuejun Yu). Next step: China Unicom Digital Technology Co., Ltd.
