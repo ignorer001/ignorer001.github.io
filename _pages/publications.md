@@ -15,7 +15,7 @@ redirect_from:
 <!-- ------ --> 
 
 ### 2025
-  * "The Twilight of SGX, but Not its Tests: An In-Depth Study of Testing in SGX Projects (to appear)", Proceedings of the 16th IEEE International Conference on Cloud Computing Technology and Science (CloudCom), November 14-16, 2025. <br>
+  * "[The Twilight of SGX, but Not its Tests: An In-Depth Study of Testing in SGX Projects](http://ignorer001.github.io/files/JiapeiDeng_CloudCom25.pdf)", Proceedings of the 16th IEEE International Conference on Cloud Computing Technology and Science (CloudCom), November 14-16, 2025. <br>
     <font color=Black>By <u>Jiapei Deng</u> and <b>Yin Liu</b> <font color=Gold>[C][EI, CORE-C]</font>
 
 ### 2024
