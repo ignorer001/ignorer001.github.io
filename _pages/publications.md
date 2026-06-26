@@ -14,6 +14,11 @@ redirect_from:
 <!-- <font color=Green>[J]</font> --> 
 <!-- ------ --> 
 
+### 2026
+  * "Visible Apps, Hidden Libs: A Comprehensive Study of Native Libraries in Android Applications (to appear)", Proceedings of the 26th IEEE
+International Conference on Software Quality, Reliability, and Security ([QRS](https://qrs26.techconf.org/)), July 22-25, 2026. <br>
+    <font color=Black>By <u>Wenxuan Liu</u>, <b>Yin Liu</b>, and Xuejun Yu</font> <font color=Gold>[C][EI, CCF-C]</font>
+
 ### 2025
   * "[The Twilight of SGX, but Not its Tests: An In-Depth Study of Testing in SGX Projects](http://ignorer001.github.io/files/JiapeiDeng_CloudCom25.pdf)", Proceedings of the 16th IEEE International Conference on Cloud Computing Technology and Science ([CloudCom](http://www.cloudcom2025.org/)), November 14-16, 2025. <br>
     <font color=Black>By <u>Jiapei Deng</u> and <b>Yin Liu</b> <font color=Gold>[C][EI, CORE-C]</font>
